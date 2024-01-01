@@ -1,6 +1,6 @@
 # link preview :
 
-https://karimashour.github.io/squash/
+https://karimashour.github.io/bootsrapv5_elzero/
 
 <img src="image.png"/>
 
@@ -8,9 +8,9 @@ https://karimashour.github.io/squash/
 - html
 - css
 - bootstrap
-- bootstrap icons
+- javascript
 - jquery
 
 
 # features
-- squash sport landing page 
+- responsive landing page 
